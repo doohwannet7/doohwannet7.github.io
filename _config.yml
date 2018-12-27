@@ -104,10 +104,10 @@ analytics:
 # Site Author
 author:
   name             : "DooHwan Sung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "Programmer."
   location         : "Seoul"
-  email            :
+  email            : "doohwannet7@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
