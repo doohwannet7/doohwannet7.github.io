@@ -276,6 +276,10 @@ compress_html:
   ignore:
     envs: development
 
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : doohwannet7 # Short-name
 
 # Defaults
 defaults:
